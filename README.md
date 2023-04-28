@@ -16,6 +16,6 @@ Bank Management System is based on C-Programming Language. It is a easy to imple
  - Pradum Kumar
  - Nainsi Gupta 
  - Shivam Tripathi
- 
+ - Pranav Singh Solanki
  
     
